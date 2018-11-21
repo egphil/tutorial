@@ -6,5 +6,7 @@ int main(void)
 
 	printf("Hi~~~ \r\n");
 
+	printf("ABCD\r\n");
+
 	return 0;
 }
